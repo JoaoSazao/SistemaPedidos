@@ -81,7 +81,7 @@ Exemplo de fluxo:
 - Entregar
 - Tentar operações inválidas
 
-##🧪 Exemplo de Saída no Console
+## 🧪 Exemplo de Saída no Console
 
 ```markdown
 Status atual: CRIADO
